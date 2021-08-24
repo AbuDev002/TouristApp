@@ -75,7 +75,7 @@ return window.open(url, title, 'toolbar=no, location=no, directories=no, status=
 		<br/>
 		<div class="content" style="width:400px; margin:50px auto;">
 			<br/>
-			<a onclick="popupCenter('http://localhost/tourismsystem/application.php', 'myPop1',350,600);" href="javascript:void(0);"><button style="padding:10px;" class="btn btn-danger">Launch App</button></a>
+			<a onclick="popupCenter('https://github.com/AbuDev002/TouristApp/application.php', 'myPop1',350,600);" href="javascript:void(0);"><button style="padding:10px;" class="btn btn-danger">Launch App</button></a>
 			
 		</div>
 		
